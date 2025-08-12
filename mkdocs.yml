@@ -10,8 +10,8 @@ copyright: Copyright &copy; 2024 head(amame) - Open Source Audio
 
 theme:
   name: material
-  logo: assets/images/logo.png
-  favicon: assets/images/favicon.png
+  # logo: assets/images/logo.png
+  # favicon: assets/images/favicon.png
   
   palette:
     # Light/dark mode toggle
@@ -72,10 +72,11 @@ plugins:
       enable_creation_date: true
       type: timeago
       fallback_to_build_date: true
-  - social:
-      cards_layout_options:
-        background_color: "#4c1d95"
-        color: "#ffffff"
+# Disabled social cards plugin until real logo is added
+  # - social:
+  #     cards_layout_options:
+  #       background_color: "#4c1d95"
+  #       color: "#ffffff"
   - glightbox:
       touchNavigation: true
       loop: false
