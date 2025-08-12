@@ -1,6 +1,6 @@
 # Welcome to head(amame)
 
-**Open-source DIY headphone kits for makers and audiophiles**
+**Open-source DIY headphone kits for makers and audiophiles** 🎧
 
 Transform your audio experience with our precision-engineered, 3D-printable headphone designs. head(amame) brings high-end audio engineering to the maker community with fully open-source designs, comprehensive documentation, and an active community of audio enthusiasts.
 
